@@ -31,4 +31,6 @@ Pra construir essa plataforma, usamos as seguintes tecnologias:
 * **Estamos em desenvolvimento:** A DevFlix ainda tá em construção, então algumas coisas podem mudar ou não estar funcionando perfeitamente.
 * **Não é oficial:** A DevFlix não tem nenhuma ligação oficial com nenhuma produtora de filmes ou séries.
 
-Então, tá esperando o quê? Vem conhecer a DevFlix e embarque nessa aventura cinematográfica com a gente!
+Então, tá esperando o quê? Vem conhecer a DevFlix e embarque nessa aventura cinematográfica.
+
+Link: https://landing-page-dev-flix-bdeo.vercel.app/
