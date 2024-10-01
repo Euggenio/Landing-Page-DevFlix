@@ -1,3 +1,4 @@
+![landing2](https://github.com/user-attachments/assets/f7a876cb-8c98-4b5f-991b-55b789fefa87)
 
 
 Se liga na nave espacial, porque esse projeto vai te levar pra um universo de filmes e séries de outro mundo! 
